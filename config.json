@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "ios": {
+    "activeProductIds": ["cloakr.monthly.unlimited3"],
+    "featureFlags": {
+      "premiumModeEnabled": true
+    }
+  },
+  "ads": {
+    "enabled": true
+  },
+  "ui": {
+    "showManageSubscriptionsLink": true
+  }
+}
