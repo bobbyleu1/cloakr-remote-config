@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "ios": {
-    "activeProductIds": ["cloakr.monthly.unlimited5"],
+    "activeProductIds": ["cloakr.monthly.unlimited6"],
     "featureFlags": {
       "premiumModeEnabled": true
     }
